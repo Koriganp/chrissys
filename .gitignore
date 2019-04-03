@@ -3,6 +3,7 @@
 /.idea
 .idea
 /idea
+\.idea
 /node_modules
 /vendor
 /src/**/*.js
