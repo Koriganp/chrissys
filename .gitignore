@@ -1,6 +1,8 @@
 .DS_Store
 /.sync-config.cson
 /.idea
+.idea
+/idea
 /node_modules
 /vendor
 /src/**/*.js
